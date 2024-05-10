@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #000;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+  }
+  
+  h1, h2, h3 {
+    color: #000;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Gaya untuk judul dan subjudul */
+  .title {
+    font-size: 26pt;
+    margin-top: 0;
+  }
+  
+  .subtitle {
+    font-size: 15pt;
+    color: #666;
+  }
+  
+  /* Gaya untuk gambar */
+  .image-container {
+    text-align: center;
+  }
+  
+  .image-caption {
+    font-style: italic;
+  }
+  
+  .back-btn {
+    display: flex;
+    align-items: center;
+    background-color: #4CAF50;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0.25rem;
+    font-size: 1rem;
+    text-decoration: none;
+    margin-right: 35rem;
+}
+
+.back-btn:hover {
+    background-color: #45a049;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+p {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
